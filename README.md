@@ -1,4 +1,0 @@
-# GuessTheDay
-# GuessTheDay
-# GuessTheDay
-# GuessTheDay
