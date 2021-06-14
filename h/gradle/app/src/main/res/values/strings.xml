@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">h</string>
+    <string name="year" translatable="false">year</string>
+    <string name="month" translatable="false">month</string>
+    <string name="day" translatable="false">day</string>
+</resources>
